@@ -1,0 +1,20 @@
+
+Oracle Linux 8.6-x86_64
+
+
+Link da apostila - Google Drive
+https://drive.google.com/file/d/1QnvuNzGG-_OODJIMHUd3S_gGz1yyzOXf/view?usp=share_link
+
+
+One Drive - Mirror I
+https://fiapcom-my.sharepoint.com/:u:/g/personal/pf0110_fiap_com_br/Ec59Txxn4mxGiW8nrjTi2K4BSaGRw5Y1zW37CUXinHVjKg?e=jajex8
+
+
+Google Drive - Mirror II
+https://drive.google.com/file/d/1aLG0nctk_7qk5Ix7y3DB_uAONsfBwloT/view?usp=share_link
+
+
+
+Site da Oracle
+https://yum.oracle.com/ISOS/OracleLinux/OL8/u6/x86_64/OracleLinux-R8-U6-x86_64-dvd.iso
+
